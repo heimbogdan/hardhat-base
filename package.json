@@ -23,7 +23,11 @@
   },
   "homepage": "https://github.com/heimbogdan/hardhat-base#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.4",
     "@nomicfoundation/hardhat-toolbox": "^2.0.0",
     "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
   }
 }
